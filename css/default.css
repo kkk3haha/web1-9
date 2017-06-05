@@ -5,7 +5,7 @@
 }
 
 body{
-  background-image:url(../picture/freeback3.png),url(../picture/freeback1.jpg);
+  background-image:url(../picture/freeback2.png),url(../picture/freeback3.jpg);
   background-repeat:no-repeat,no-repeat;
   background-size:100% 100% ,cover;
   background-color:lightgray;
