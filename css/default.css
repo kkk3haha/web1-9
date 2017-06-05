@@ -7,7 +7,7 @@
 body{
   background-image:url(../picture/freeback1.jpg),url(../picture/freeback2.jpg);
   background-repeat:no-repeat,no-repeat;
-  background-size:5% 5% ,cover;
+  background-size:50% 50% ,cover;
   background-color:lightgreen;
   margin:5px;
 }
