@@ -44,7 +44,7 @@ body{
   background: linear-gradient(135deg,orangered 0%,white 50%,orange 100%);
 }
 .button{
-  display:black;
+  display:block;
   margin: 5px;
   padding: 10px;
   width:200px;
